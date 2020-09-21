@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileUI</string>
+
+    <string name="hint_home">Home</string>
+    <string name="hint_clear">Clear</string>
+    <string name="hint_submit">Submit</string>
+    <string name="title_activity_the_end">TheEnd</string>
+</resources>
